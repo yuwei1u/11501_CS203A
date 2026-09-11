@@ -12,7 +12,7 @@ To train the student in the information representation and manipulation and prep
 - Time: Monday, 09:10~12:00
 
 ## Student Name, Student Number:
-- Kevin Lu  
+- Kevin Lu, 呂宥葳
 - 1141648  
 - [Personal Webpage](https://yuwei1u.github.io/)
 ## Repository description: 
