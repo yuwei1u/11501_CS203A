@@ -1,17 +1,23 @@
-##目的: 了解別人怎麼放資料 
-      取出別放的資料 algorithm
+# Data Type
 
-###data type
----
-- signed/ insigned 
-  - int 
-  - long
-  - long long 
-  - short
-- floating point
-  - float 
-  - double
-- char
+## 目的
 
-data structrue
----
+- 了解別人怎麼存放資料
+- 了解如何取出別人存放的資料（Algorithm）
+
+## Data Types
+
+### Signed / Unsigned
+
+- **Integer**
+  - `short`
+  - `int`
+  - `long`
+  - `long long`
+
+- **Floating Point**
+  - `float`
+  - `double`
+
+- **Character**
+  - `char`
