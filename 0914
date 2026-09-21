@@ -9,15 +9,26 @@
 
 ### Signed / Unsigned
 
-- **Integer**
-  - `short`
-  - `int`
-  - `long`
-  - `long long`
+- Integer
+  - short
+  - int
+  - long
+  - long long
 
-- **Floating Point**
-  - `float`
-  - `double`
+- Floating Point
+  - float
+  - double
 
-- **Character**
-  - `char`
+- Character
+  - char
+
+---
+
+##Data Structure
+- arrary
+- linked list
+- stack
+- queue
+- tree 
+- graph
+- hash table
