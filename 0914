@@ -1,0 +1,17 @@
+##目的: 了解別人怎麼放資料 
+      取出別放的資料 algorithm
+
+###data type
+---
+- signed/ insigned 
+  - int 
+  - long
+  - long long 
+  - short
+- floating point
+  - float 
+  - double
+- char
+
+data structrue
+---
